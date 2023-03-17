@@ -2,6 +2,7 @@
 ## An auto-managed console for running and monitoring i2pd router. 
 
 ## Features:
+- [ ] GPG signed keys for upload verification
 - [x] Python and jsonrpc2 (i2pcontrol) based webconsole
 - [x] Python and nginx powered webserver for logfile (can, of course, also be used for other sites)
 - [ ] easy setup for wireguard tunnel connection for non-local proxy usage and encypted traffic pre i2pd router.
